@@ -2459,12 +2459,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-jsreport-chrome-pdf@1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/jsreport-chrome-pdf/-/jsreport-chrome-pdf-1.6.1.tgz#75e54e37196a78d65004f3cecf9a303a94f689c4"
-  integrity sha512-A7XdHYgRKp//DARh9pBG/Rpb+/qVEbUuqOgTOH5mnbDsc/Q5GHf/9V7ytuhPSyOJg1sTsP6Udxi5H40ily/Z+A==
-  dependencies:
-    node.extend.without.arrays "1.1.6"
+jsreport-chrome-pdf@1.10.0:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/jsreport-chrome-pdf/-/jsreport-chrome-pdf-1.10.0.tgz#ffc4b4d5418da819c12242ee8c06cf56e8a82c1b"
+  integrity sha512-TqSml9oyp9ErgrFB2WqEsNYhUveBsRxF6Bdjw8AOyZgBM7we2IbTFa9IdxoRqfJ+QX2rNTBos4MuPyPQlw8tOA==
 
 jsreport-core@2.6.2:
   version "2.6.2"
